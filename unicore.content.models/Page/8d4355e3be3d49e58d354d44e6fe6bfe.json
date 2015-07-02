@@ -6,12 +6,12 @@
   "primary_category": "a7d9921561d74230af88319f745971ad", 
   "created_at": "2015-07-02T10:08:37+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-02T10:11:26.026364+00:00", 
+  "modified_at": "2015-07-02T10:18:27.746985+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "uko-wakwirinda-malariya", 
   "uuid": "8d4355e3be3d49e58d354d44e6fe6bfe"
