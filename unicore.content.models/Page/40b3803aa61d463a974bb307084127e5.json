@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Si vous souffrez du paludisme, il est important de vous faire soigner imm\u00e9diatement. S'il n'est pas soign\u00e9, le paludisme peut \u00eatre mortel.", 
-  "language": "fre_SN", 
+  "language": "fre_RW", 
   "title": "Comment soigner le paludisme", 
   "primary_category": "6d14396eb3a349a8aaf016c3def9028c", 
-  "created_at": "2015-06-12T00:05:07.531494+00:00", 
+  "created_at": "2015-06-12T00:05:07+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-01T11:52:47.754643+00:00", 
+  "modified_at": "2015-07-31T10:10:51.381998+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "comment-soigner-le-paludisme", 
   "uuid": "40b3803aa61d463a974bb307084127e5"
